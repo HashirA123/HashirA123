@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a Software Engineering grad from University of Calgary working with machine learning and web development. I am constantly integrating and developing my software knowledge, currently I am working towards learning new backend and AI technologies.
+
+📫 How to reach me: https://www.linkedin.com/in/hashir-ahmed-2531b71b6/
 
 <!--
 **HashirA123/HashirA123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
