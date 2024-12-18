@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineering grad from the University of Calgary working with machine learning and web development. I am constantly integrating and developing my software knowledge, currently, I am working towards learning new backend and AI technologies.
+I am a Master's student at the University of Waterloo, working with machine learning and web development. I am constantly integrating and developing my software knowledge, and I am currently working towards learning new backend and AI technologies.
 
 📫 How to reach me: https://www.linkedin.com/in/hashirahmed204/
 
